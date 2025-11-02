@@ -78,6 +78,7 @@ Output
 - **Rationale:** Maintains statistical properties while reducing computational load
 - **Dimension Elimination:** Dropped Transaction ID and Customer ID columns
 - **Rationale:** These identifiers don't contribute to pattern analysis
+![reduction](reduction.png)
 
 ### 4. **Data Scaling and Discretization**
 - **Scaling Method:** Z-score standardization (StandardScaler)
@@ -86,7 +87,7 @@ Output
 - **Discretization:** Converted continuous Age into categorical groups
 - **Categories:** Youth (0-25), Adult (26-45), Middle-aged (46-65), Senior (66+)
 - **Rationale:** Simplifies age-based segmentation for marketing analysis
-
+![scaling](scaling.png)
 ---
 
 ## Challenges Faced and Solutions
