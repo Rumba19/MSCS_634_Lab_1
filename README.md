@@ -64,13 +64,15 @@ Output
 - **Decision:** Fill categorical columns with mode (most frequent value)
 - **Rationale:** Maintains category balance and prevents bias
 
+![missingvalue](missingvalues.png)
+
 ### 2. **Outlier Detection and Removal (IQR Method)**
 - **Decision:** Used Interquartile Range (IQR) method with 1.5×IQR threshold
 - **Rationale:** Standard statistical approach balancing outlier sensitivity
 - **Columns Analyzed:** Age, Quantity, and Total Amount
 - **Impact:** Removed extreme values that could skew analysis results
 - **Trade-off:** Lost some data points but improved model reliability
-
+![outlier](outlier.png)
 ### 3. **Data Reduction**
 - **Sampling Decision:** Retained 80% of data using random sampling
 - **Rationale:** Maintains statistical properties while reducing computational load
