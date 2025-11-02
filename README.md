@@ -37,24 +37,7 @@ Output
  ![histogram](histogram.png)
 ---
 
-## Statistical Analysis Findings
 
-### Central Tendency Measures
-- **Age:** Customer base spans from young adults to seniors (18-75 years)
-- **Quantity:** Most transactions involve small quantities, typical of retail purchases
-- **Total Amount:** Average purchase amount provides baseline for revenue projections
-
-### Dispersion Analysis
-- **IQR Analysis:** Identified the middle 50% of data for each numeric variable
-- **Standard Deviation:** Quantified variability in customer purchasing behavior
-- **Outlier Detection:** Found unusual transactions requiring further investigation
-
-### Correlation Analysis
-- **Age vs Purchase Amount:** Weak correlation suggests universal product appeal
-- **Quantity vs Total Amount:** Expected positive correlation confirmed
-- **Key Finding:** Purchase decisions are driven more by product category than demographics
-
----
 
 ## Data Preprocessing Decisions
 
@@ -90,6 +73,27 @@ Output
 ![scaling](scaling.png)
 ---
 
+## Statistical Analysis Findings
+
+### Central Tendency Measures
+- **Age:** Customer base spans from young adults to seniors (18-75 years)
+- **Quantity:** Most transactions involve small quantities, typical of retail purchases
+- **Total Amount:** Average purchase amount provides baseline for revenue projections
+![statistics](statistics.png)
+- 
+![mean](mean.png)
+### Dispersion Analysis
+- **IQR Analysis:** Identified the middle 50% of data for each numeric variable
+- **Standard Deviation:** Quantified variability in customer purchasing behavior
+- **Outlier Detection:** Found unusual transactions requiring further investigation
+![median](median.png)
+
+### Correlation Analysis
+- **Age vs Purchase Amount:** Weak correlation suggests universal product appeal
+- **Quantity vs Total Amount:** Expected positive correlation confirmed
+- **Key Finding:** Purchase decisions are driven more by product category than demographics
+
+---
 ## Challenges Faced and Solutions
 
 ### Challenge 1: Dataset Selection and Loading
