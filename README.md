@@ -92,7 +92,7 @@ Output
 - **Age vs Purchase Amount:** Weak correlation suggests universal product appeal
 - **Quantity vs Total Amount:** Expected positive correlation confirmed
 - **Key Finding:** Purchase decisions are driven more by product category than demographics
-
+![correlation](correlation.png)
 ---
 ## Challenges Faced and Solutions
 
