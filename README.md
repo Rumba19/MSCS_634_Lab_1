@@ -26,13 +26,15 @@ Output is shown in screen shot:
 - **Finding:** No strong correlation between age and spending, suggesting products appeal to all age groups
 - **Business Value:** Marketing campaigns should target diverse age demographics
 
+Output 
+![scatter](scatterplot.png)
 
 ### 2. **Histogram (Purchase Amount Distribution)**
 - **Insight:** Most purchases cluster around specific price points
 - **Finding:** Distribution reveals typical customer spending patterns
 - **Business Value:** Optimal pricing strategies can be developed around these peaks
-
-
+ Output obtained as follows:
+ ![histogram](histogram.png)
 ---
 
 ## Statistical Analysis Findings
