@@ -23,30 +23,12 @@ The dataset contains 1,000 retail transactions with 9 features including custome
 - **Finding:** No strong correlation between age and spending, suggesting products appeal to all age groups
 - **Business Value:** Marketing campaigns should target diverse age demographics
 
-### 2. **Line Plot (Sales Trend Over Time)**
-- **Insight:** Sales show temporal variations with noticeable peaks and valleys throughout 2023
-- **Finding:** Certain dates exhibit significantly higher transaction volumes
-- **Business Value:** Identifies peak shopping periods for inventory planning and staffing
 
-### 3. **Bar Chart (Sales by Product Category)**
-- **Insight:** Revenue distribution across Electronics, Clothing, and Beauty categories
-- **Finding:** One category may dominate total sales revenue
-- **Business Value:** Helps prioritize inventory investment and shelf space allocation
-
-### 4. **Histogram (Purchase Amount Distribution)**
+### 2. **Histogram (Purchase Amount Distribution)**
 - **Insight:** Most purchases cluster around specific price points
 - **Finding:** Distribution reveals typical customer spending patterns
 - **Business Value:** Optimal pricing strategies can be developed around these peaks
 
-### 5. **Box Plot (Amount by Category)**
-- **Insight:** Different product categories show varying price ranges and outliers
-- **Finding:** Some categories have wider price spreads indicating diverse product offerings
-- **Business Value:** Identifies unusual transactions that may need fraud review
-
-### 6. **Pie Chart (Category Distribution)**
-- **Insight:** Transaction volume is distributed across three main product categories
-- **Finding:** Shows which categories generate the most frequent purchases
-- **Business Value:** Guides product mix decisions and promotional focus
 
 ---
 
@@ -163,11 +145,11 @@ The dataset contains 1,000 retail transactions with 9 features including custome
 
 This lab successfully demonstrated end-to-end data analysis workflow:
 
-1. ✅ **Data Collection:** Successfully loaded real-world retail dataset
-2. ✅ **Visualization:** Created six diverse visualizations revealing business insights
-3. ✅ **Preprocessing:** Applied industry-standard cleaning and transformation techniques
-4. ✅ **Statistical Analysis:** Computed comprehensive descriptive statistics
-5. ✅ **Documentation:** Maintained clear code structure with detailed comments
+1. **Data Collection:** Successfully loaded real-world retail dataset
+2. **Visualization:** Created six diverse visualizations revealing business insights
+3. **Preprocessing:** Applied industry-standard cleaning and transformation techniques
+4. **Statistical Analysis:** Computed comprehensive descriptive statistics
+5.  **Documentation:** Maintained clear code structure with detailed comments
 
 **Key Takeaway:** Proper data preprocessing is crucial - the quality of analysis depends heavily on data cleaning decisions made early in the pipeline.
 
@@ -182,9 +164,7 @@ This lab successfully demonstrated end-to-end data analysis workflow:
 ## Files Included
 
 - `retail_sales_dataset.csv` - Original dataset from Kaggle
-- `analysis_notebook.ipynb` - Complete Jupyter notebook with all code
-- `visualizations.png` - Six-panel visualization output
-- `correlation_matrix.png` - Correlation heatmap
+- `aData_Visualization.ipynb` - Complete Jupyter notebook with all code
 - `README.md` - This documentation file
 - Screenshots (10 total) - Documenting each lab step
 
@@ -198,5 +178,3 @@ This lab successfully demonstrated end-to-end data analysis workflow:
 - Visualization Best Practices: Edward Tufte's principles of data visualization
 
 ---
-
-*End of README*
