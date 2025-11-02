@@ -14,6 +14,9 @@ This lab demonstrates comprehensive data analysis techniques on a retail sales d
 
 The dataset contains 1,000 retail transactions with 9 features including customer demographics, product categories, and purchase details.
 
+Data set is collected from kaggle and is loaded to pandas Data frame.
+Output is shown in screen shot:
+![datacollection](DataCollection.png)
 ---
 
 ## Key Insights from Visualizations
