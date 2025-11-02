@@ -176,9 +176,9 @@ This lab successfully demonstrated end-to-end data analysis workflow:
 ## Files Included
 
 - `retail_sales_dataset.csv` - Original dataset from Kaggle
-- `aData_Visualization.ipynb` - Complete Jupyter notebook with all code
+- `Data_Visualization.ipynb` - Complete Jupyter notebook with all code
 - `README.md` - This documentation file
-- Screenshots (10 total) - Documenting each lab step
+
 
 ---
 
@@ -189,4 +189,4 @@ This lab successfully demonstrated end-to-end data analysis workflow:
 - Scaling Technique: Z-score standardization (StandardScaler from scikit-learn)
 - Visualization Best Practices: Edward Tufte's principles of data visualization
 
----
+
