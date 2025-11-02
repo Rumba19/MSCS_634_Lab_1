@@ -1,7 +1,8 @@
 # Data Analysis Lab: Retail Sales Dataset
 
 ---
-
+**NOTE**: notebook file and screenshots are not loaded in github. So, sharing link of Google Colab that will give results in tabular and also Visualization;
+https://colab.research.google.com/drive/1GocUj3zP0q5GtIZTxHuhZru14f6xLbTM#scrollTo=XwyX1nI4zhBc
 ## Purpose of Lab Work
 
 This lab demonstrates comprehensive data analysis techniques on a retail sales dataset obtained from Kaggle. The primary objectives were to:
